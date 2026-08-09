@@ -1,74 +1,242 @@
 <h1 align="center">Hi 👋, I'm Jodu Vyshnavi</h1>
 
 <h3 align="center">
-Software Engineer | Java Backend Developer | Python Developer | AI & Graph Database Enthusiast
+Java Backend Developer | Software Engineer | Python Developer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoduVyshnavi17&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="mailto:joduvyshnavi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/JoduVyshnavi17">
+    <img src="https://img.shields.io/badge/GitHub-JoduVyshnavi17-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/jodu-vyshnavi-5426011a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Jodu%20Vyshnavi-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/JoduVyshnavi17">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:joduvyshnavi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-joduvyshnavi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://joduvyshnavi17.github.io/Portfolio_Vyshnavi">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoduVyshnavi17&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 B.Tech Graduate in Computer Science Engineering (Cyber Security)
+🎓 B.Tech Graduate in **Computer Science and Engineering (Cyber Security)**
 
-🏆 Graduated with **94.7%**
+💻 Focused on **Java Backend Development and Spring Boot**
 
-💻 Passionate about building scalable backend systems, AI-powered applications, and data-driven software.
+🚀 Experienced in building **REST APIs and database-driven applications**
 
-☕ Strong in Java, Spring Boot, Python, REST APIs, SQL, and Graph Databases.
+🐍 Comfortable working with **Java, Python and SQL**
 
-🌱 Currently learning:
+🗄️ Interested in **Backend Systems, Databases, Cloud and Software Engineering**
 
-- Microservices
-- Docker
-- Kubernetes
+🔥 Solved **500+ LeetCode problems** with a **300+ day coding streak**
+
+📍 Hyderabad, Telangana, India
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" />
+</p>
+
+- Java
+- Python
+- SQL
+- JavaScript
+
+### ⚙️ Backend & Core CS
+
+- Spring Boot
+- REST APIs
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- DBMS
+- Operating Systems
+- Computer Networks
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+- MySQL
+- MongoDB
+- Neo4j
+- Graph Databases
+
+### ☁️ Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
 - AWS
-- Large Language Models (LLMs)
+- AWS EC2
+- AWS S3
+- Azure Fundamentals
 
-🏅 Highlights
+### 🔧 Tools
 
-- 🚀 Solved **500+ LeetCode Problems**
-- 🤝 Open Source Contributor at **Lamatic AI**
-- 📍 Hyderabad, India
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,react,html,css,javascript,mysql,mongodb,git,github,docker,aws,maven,postman,vscode"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode,docker" />
 </p>
 
+- Git
+- GitHub
+- Postman
+- Maven
+- Docker
+
 ---
 
-# 📊 GitHub Statistics
+# 🚀 Featured Projects
+
+## 📊 Graph Database Benchmark
+
+A Python-based benchmarking framework for comparing **CognoDB and Neo4j** using a real graph collaboration dataset.
+
+### Highlights
+
+- Automated graph dataset ingestion
+- Benchmarking of graph database queries
+- Node and relationship counting
+- Author lookup
+- 1-hop and 2-hop graph traversal
+- Degree aggregation
+- CSV benchmark result generation
+- Performance comparison and visualization
+
+### Tech Stack
+
+`Python` `Neo4j` `CognoDB` `Pandas` `Matplotlib`
+
+🔗 **Repository:**  
+https://github.com/JoduVyshnavi17/graph-database-benchmark
+
+---
+
+## 🎉 Online Event Planner Platform
+
+A full-stack event management application designed to manage event orders, reviews and service listings.
+
+### Highlights
+
+- RESTful backend APIs
+- Event order management
+- Review management
+- Input validation
+- Filtering
+- Database integration
+- Frontend-backend integration
+
+### Tech Stack
+
+`Java` `Spring Boot` `MySQL` `REST API`
+
+🔗 **Repository:**  
+https://github.com/JoduVyshnavi17/online-event-planner
+
+---
+
+## 🤖 AI Interview Assistant
+
+A Flask-based application designed to support automated interview evaluation.
+
+### Highlights
+
+- Interview response processing
+- Emotion analysis
+- Response scoring
+- Structured interview feedback
+- Automated evaluation workflow
+
+### Tech Stack
+
+`Python` `Flask` `AI` `NLP`
+
+🔗 **Repository:**  
+https://github.com/JoduVyshnavi17/Ai-interview-assisstant-with-emotion-detector
+
+---
+
+## 😴 Driver Drowsiness Detection System
+
+A real-time computer vision system designed to detect driver drowsiness using facial landmarks.
+
+### Highlights
+
+- Real-time camera processing
+- Facial landmark detection
+- Eye Aspect Ratio analysis
+- Frame-based analysis
+- Drowsiness alert mechanism
+
+### Tech Stack
+
+`Python` `OpenCV` `Computer Vision` `Deep Learning`
+
+🔗 **Repository:**  
+https://github.com/JoduVyshnavi17/Driver-Drowsiness-Detection-System-using-Convolutional-Neural-Networks
+
+---
+
+# 🧠 Problem Solving
+
+I actively practice Data Structures and Algorithms.
+
+### Coding Progress
+
+- 🔥 **500+ LeetCode problems solved**
+- 📅 **300+ day LeetCode streak**
+- 🏅 Multiple coding badges
+- 💡 Regular problem-solving practice
+
+### Core Topics
+
+`Arrays` `Strings` `Hashing` `Linked Lists` `Stacks` `Queues`
+
+`Trees` `Graphs` `Recursion` `Dynamic Programming`
+
+`Sorting` `Searching` `Greedy` `Data Structures`
+
+---
+
+# 🏅 Certifications
+
+- **ServiceNow Certified System Administrator**
+- **ServiceNow Certified Application Developer**
+- **Salesforce Agentforce Specialist**
+- **AWS Data Engineering**
+- **Java Full Stack Development**
+- **Data Structures Using Java**
+
+---
+
+# 🎓 Education
+
+### B.Tech — Computer Science and Engineering (Cyber Security)
+
+**M L R I T M — 2026**
+
+**CGPA: 9.47**
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoduVyshnavi17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoduVyshnavi17&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoduVyshnavi17&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoduVyshnavi17&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -76,138 +244,59 @@ Software Engineer | Java Backend Developer | Python Developer | AI & Graph Datab
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=JoduVyshnavi17&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=JoduVyshnavi17&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
-[![Vyshnavi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoduVyshnavi17&theme=tokyo-night)](https://github.com/JoduVyshnavi17)
-
----
-
-# 🏆 GitHub Trophies
+# 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JoduVyshnavi17&theme=tokyonight&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoduVyshnavi17&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-# 🌟 Featured Projects
-
-## 📊 Graph Database Benchmark
-
-A Python-based benchmarking framework comparing **CognoDB** and **Neo4j** using the SNAP CA-HepTh dataset.
-
-### Technologies
-
-- Python
-- Neo4j
-- CognoDB
-- Pandas
-- Matplotlib
-
----
-
-## 🎉 Online Event Planner
-
-A full-stack event management platform with secure authentication, REST APIs, and responsive frontend.
-
-### Technologies
-
-- Java
-- Spring Boot
-- React
-- MySQL
-- JWT
-
----
-
-## 🤖 AI Interview Assistant
-
-An AI-powered interview evaluation system that analyzes responses and generates structured feedback.
-
-### Technologies
-
-- Python
-- Flask
-- NLP
-- SQLite
-
----
-
-## 😴 Driver Drowsiness Detection
-
-Real-time driver monitoring system using Computer Vision and Deep Learning.
-
-### Technologies
-
-- Python
-- OpenCV
-- CNN
-- Flask
-
----
-
-# 🏅 Certifications
-
-- ✅ ServiceNow Certified System Administrator (CSA)
-- ✅ ServiceNow Certified Application Developer (CAD)
-- ✅ Java Full Stack Development
-- ✅ Spring Boot Development
-- ✅ AWS Data Engineering Virtual Internship
-- ✅ Salesforce Agentforce Specialist
-- ✅ UiPath Automation Developer Associate
-
----
-
-# 📚 Currently Learning
-
-- Advanced Java
-- System Design
-- Microservices
-- Kubernetes
-- Docker
-- AWS
-- Graph Databases
-- LLM Applications
 
 ---
 
 # 🎯 Career Interests
 
-- Backend Development
-- Software Engineering
-- Java Development
-- AI & Machine Learning
-- Cloud Computing
-- Graph Databases
-- Distributed Systems
+I'm interested in opportunities involving:
+
+- 💻 Software Engineering
+- ☕ Java Backend Development
+- 🌐 Spring Boot Development
+- 🐍 Python Development
+- 🗄️ Database Engineering
+- ☁️ Cloud Engineering
+- 🤖 AI & Machine Learning
+- 📊 Data Engineering
+- 🔗 Graph Databases
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email: **joduvyshnavi@gmail.com**
+<p align="center">
 
-💼 LinkedIn: **https://www.linkedin.com/in/jodu-vyshnavi-5426011a7/**
+<a href="mailto:joduvyshnavi@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🌐 Portfolio: **https://joduvyshnavi17.github.io/Portfolio_Vyshnavi**
+<a href="https://www.linkedin.com/in/jodu-vyshnavi-5426011a7/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-💻 GitHub: **https://github.com/JoduVyshnavi17**
+<a href="https://github.com/JoduVyshnavi17">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <i>Building, learning, and solving one problem at a time. 🚀</i>
+</p>
 
-⭐ If you like my work, consider giving a ⭐ to my repositories!
-
-Thanks for visiting my GitHub profile! 🚀
-
-</div>
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
