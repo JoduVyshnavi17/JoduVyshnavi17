@@ -99,14 +99,58 @@ Java Backend Developer | Software Engineer | Python Developer
 
 ---
 
+
 # 🚀 Featured Projects
+
+## 📝 LoveNotes – AI-Powered Learning Platform
+
+An AI-powered learning platform that helps students transform their notes into interactive learning materials.
+
+### Highlights
+- AI-powered note processing and summarization
+- Generate quizzes and flashcards
+- Create mind maps from study notes
+- Ask questions about uploaded notes
+- Designed to make studying more interactive and efficient
+
+### Tech Stack
+`Python` `FastAPI` `AI` `OCR` `SQL` `JavaScript`
+
+🔗 **Live Application:** https://lovenotes-ai.vercel.app/
+
+🔗 **Live Backend:** https://lovenote-production-8b870ef6.up.railway.app/
+
+---
+
+## ⚙️ Cynbit Backend Technical Audit & REST API
+
+An independent backend technical audit and API demonstration created as part of a Backend Developer Intern technical assessment.
+
+### Highlights
+- Analysed publicly observable website network behaviour
+- Developed REST API endpoints using Express.js
+- Implemented request validation using Zod
+- Added Helmet security headers and rate limiting
+- Used parameterized SQLite queries
+- Implemented structured error handling
+- Added automated API and database tests
+
+### Tech Stack
+`Node.js` `Express.js` `SQLite` `Zod` `Helmet` `Jest` `Supertest`
+
+🔗 **GitHub Repository:**  
+https://github.com/JoduVyshnavi17/cynbit-backend-technical-audit
+
+🔗 **Live API:**  
+https://cynbit-backend-technical-audit-farq.onrender.com/
+
+---
 
 ## 📊 Graph Database Benchmark
 
-A Python-based benchmarking framework for comparing **CognoDB and Neo4j** using a real graph collaboration dataset.
+A Python-based benchmarking framework for comparing CognoDB and Neo4j using a graph collaboration dataset.
 
 ### Highlights
-
 - Automated graph dataset ingestion
 - Benchmarking of graph database queries
 - Node and relationship counting
@@ -117,7 +161,6 @@ A Python-based benchmarking framework for comparing **CognoDB and Neo4j** using 
 - Performance comparison and visualization
 
 ### Tech Stack
-
 `Python` `Neo4j` `CognoDB` `Pandas` `Matplotlib`
 
 🔗 **Repository:**  
@@ -130,7 +173,6 @@ https://github.com/JoduVyshnavi17/graph-database-benchmark
 A full-stack event management application designed to manage event orders, reviews and service listings.
 
 ### Highlights
-
 - RESTful backend APIs
 - Event order management
 - Review management
@@ -140,7 +182,6 @@ A full-stack event management application designed to manage event orders, revie
 - Frontend-backend integration
 
 ### Tech Stack
-
 `Java` `Spring Boot` `MySQL` `REST API`
 
 🔗 **Repository:**  
@@ -148,12 +189,11 @@ https://github.com/JoduVyshnavi17/online-event-planner
 
 ---
 
-## 🤖 AI Interview Assistant
+## 🤖 AI Interview Assistant with Emotion Detection
 
-A Flask-based application designed to support automated interview evaluation.
+A Flask-based application designed to support automated interview evaluation and emotion analysis.
 
 ### Highlights
-
 - Interview response processing
 - Emotion analysis
 - Response scoring
@@ -161,7 +201,6 @@ A Flask-based application designed to support automated interview evaluation.
 - Automated evaluation workflow
 
 ### Tech Stack
-
 `Python` `Flask` `AI` `NLP`
 
 🔗 **Repository:**  
@@ -171,10 +210,9 @@ https://github.com/JoduVyshnavi17/Ai-interview-assisstant-with-emotion-detector
 
 ## 😴 Driver Drowsiness Detection System
 
-A real-time computer vision system designed to detect driver drowsiness using facial landmarks.
+A real-time computer vision system designed to detect driver drowsiness using facial landmarks and eye analysis.
 
 ### Highlights
-
 - Real-time camera processing
 - Facial landmark detection
 - Eye Aspect Ratio analysis
@@ -182,13 +220,11 @@ A real-time computer vision system designed to detect driver drowsiness using fa
 - Drowsiness alert mechanism
 
 ### Tech Stack
-
 `Python` `OpenCV` `Computer Vision` `Deep Learning`
 
 🔗 **Repository:**  
 https://github.com/JoduVyshnavi17/Driver-Drowsiness-Detection-System-using-Convolutional-Neural-Networks
 
----
 
 # 🧠 Problem Solving
 
